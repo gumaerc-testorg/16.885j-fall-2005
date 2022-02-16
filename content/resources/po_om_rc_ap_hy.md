@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains information on developmental program, difference
   between OMS and RCS and APU/hydraulics.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-885j-aircraft-systems-engineering-fall-2005/e1a380d59655699817b8e52ae0ed754f_po_om_rc_ap_hy.pdf
+file: /media/courses/16-885j-aircraft-systems-engineering-fall-2005/e1a380d59655699817b8e52ae0ed754f_po_om_rc_ap_hy.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Videos
+ocw_type: OCWFile
+parent_title: Video Lectures
+parent_type: CourseSection
 resourcetype: Document
 title: po_om_rc_ap_hy.pdf
 uid: e1a380d5-9655-6998-17b8-e52ae0ed754f

@@ -2,14 +2,24 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "Lecture Notes ([PDF \u2011 1.3MB](resources/sieck_launch_ops\
+  \ \"Open in a new window.\"))\n\nBob Sieck Bio ([PDF](resources/sieck_bio \"Open\
+  \ in a new window.\"))"
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 14: Ground Operations - Launching the Shuttle'
 uid: 77d97031-2efe-5c0c-0f20-ad266e3a9b83
 video_files:
   archive_url: http://www.archive.org/download/MIT16.855JF05/ocw-16.885-27oct2005-220k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/16-885j-aircraft-systems-engineering-fall-2005/d45e112e8e635f8281e383009a80bf11_rV5eSoBqrsY.vtt
+  video_captions_file: /courses/16-885j-aircraft-systems-engineering-fall-2005/d45e112e8e635f8281e383009a80bf11_rV5eSoBqrsY.vtt
   video_thumbnail_file: https://img.youtube.com/vi/rV5eSoBqrsY/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/16-885j-aircraft-systems-engineering-fall-2005/c04db3ca23e3e3b6ae2cfe3036fdb6fd_rV5eSoBqrsY.pdf
+  video_transcript_file: /courses/16-885j-aircraft-systems-engineering-fall-2005/c04db3ca23e3e3b6ae2cfe3036fdb6fd_rV5eSoBqrsY.pdf
 video_metadata:
   youtube_id: rV5eSoBqrsY
 ---

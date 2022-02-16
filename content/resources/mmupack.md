@@ -2,13 +2,17 @@
 content_type: resource
 description: An astronaut uses the Manned Maneuvering Unit (MMU), a nitrogen-propelled
   backpack.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-885j-aircraft-systems-engineering-fall-2005/e19ec52d3aa510b6b135691940bdbf9f_mmupack.jpg
+file: /media/courses/16-885j-aircraft-systems-engineering-fall-2005/e19ec52d3aa510b6b135691940bdbf9f_mmupack.jpg
 file_type: image/jpeg
 image_metadata:
   caption: An astronaut uses the Manned Maneuvering Unit (MMU), a nitrogen-propelled
     backpack.
   credit: 'Credit: Image courtesy of NASA.'
   image-alt: Manned Maneuvering Unit (MMU).
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Related Resources
+parent_type: CourseSection
 resourcetype: Image
 title: mmupack.jpg
 uid: e19ec52d-3aa5-10b6-b135-691940bdbf9f

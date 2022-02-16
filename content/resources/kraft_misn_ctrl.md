@@ -4,8 +4,13 @@ description: This resource contains information on project mercury, development 
   world wide network, mission plan, evolutio of flight control concepts, evolution
   of mission control, mission rules evolution, dawn of system engineering, advanced
   mission control centre and mission rules and malfunction requirements.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-885j-aircraft-systems-engineering-fall-2005/261853cb8ad7e5eeea47da775f39b72d_kraft_misn_ctrl.pdf
+file: /media/courses/16-885j-aircraft-systems-engineering-fall-2005/261853cb8ad7e5eeea47da775f39b72d_kraft_misn_ctrl.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Videos
+ocw_type: OCWFile
+parent_title: Video Lectures
+parent_type: CourseSection
 resourcetype: Document
 title: kraft_misn_ctrl.pdf
 uid: 261853cb-8ad7-e5ee-ea47-da775f39b72d

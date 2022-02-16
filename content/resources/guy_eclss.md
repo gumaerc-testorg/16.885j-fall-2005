@@ -5,8 +5,13 @@ description: 'This resource contains information on cabin atmospheric revitaliza
 
   control subsystem, water and waste management subsystem, cabin thermal control subsystem,
   spacecraft active thermal control subsystem and EVA airlock support subsystem.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-885j-aircraft-systems-engineering-fall-2005/919a708a2e195e992156f22030621285_guy_eclss.pdf
+file: /media/courses/16-885j-aircraft-systems-engineering-fall-2005/919a708a2e195e992156f22030621285_guy_eclss.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Videos
+ocw_type: OCWFile
+parent_title: Video Lectures
+parent_type: CourseSection
 resourcetype: Document
 title: guy_eclss.pdf
 uid: 919a708a-2e19-5e99-2156-f22030621285

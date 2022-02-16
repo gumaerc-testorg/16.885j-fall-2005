@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-885j-aircraft-systems-engineering-fall-2005/2f1f2d91a867075bd2425cd1cc6ee29f_bOAyzURugaw.pdf
+file: /media/courses/16-885j-aircraft-systems-engineering-fall-2005/2f1f2d91a867075bd2425cd1cc6ee29f_bOAyzURugaw.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: 2f1f2d91-a867-075b-d242-5cd1cc6ee29f

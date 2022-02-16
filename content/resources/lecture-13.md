@@ -2,14 +2,24 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "Lecture Notes ([PDF \u2011 1.3MB](resources/guy_eclss \"\
+  Open in a new window.\"))\n\nWalt Guy Bio ([PDF](resources/guy_bio \"Open in a new\
+  \ window.\"))"
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 13: Environmental Control Systems'
 uid: 7e10e6d1-77b6-2fad-5a24-7e45421fc4cb
 video_files:
   archive_url: http://www.archive.org/download/MIT16.855JF05/ocw-16.885-25oct2005-220k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/16-885j-aircraft-systems-engineering-fall-2005/a679a48cfa095eb9b9ed8312f5b062ca_AwjT1gJSsco.vtt
+  video_captions_file: /courses/16-885j-aircraft-systems-engineering-fall-2005/a679a48cfa095eb9b9ed8312f5b062ca_AwjT1gJSsco.vtt
   video_thumbnail_file: https://img.youtube.com/vi/AwjT1gJSsco/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/16-885j-aircraft-systems-engineering-fall-2005/3a1c85ecaf54d2ed0c80eebfa4d52447_AwjT1gJSsco.pdf
+  video_transcript_file: /courses/16-885j-aircraft-systems-engineering-fall-2005/3a1c85ecaf54d2ed0c80eebfa4d52447_AwjT1gJSsco.pdf
 video_metadata:
   youtube_id: AwjT1gJSsco
 ---

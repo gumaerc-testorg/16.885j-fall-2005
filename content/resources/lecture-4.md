@@ -2,14 +2,24 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "Lecture Notes ([PDF \u2011 4.3MB](resources/logsdn_lec_notes\
+  \ \"Open in a new window.\")){{< sup \"#\" >}}\n\nProf. John Logsdon Bio ([PDF](resources/logsdon_bio\
+  \ \"Open in a new window.\"))"
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 4: The Decision to Build the Shuttle'
 uid: bee4fa40-8c03-b6a3-202f-a54780c96210
 video_files:
   archive_url: http://www.archive.org/download/MIT16.855JF05/ocw-16.885-20sep2005-220k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/16-885j-aircraft-systems-engineering-fall-2005/c801c65822625eccb7c73cb79418f543_bOAyzURugaw.vtt
+  video_captions_file: /courses/16-885j-aircraft-systems-engineering-fall-2005/c801c65822625eccb7c73cb79418f543_bOAyzURugaw.vtt
   video_thumbnail_file: https://img.youtube.com/vi/bOAyzURugaw/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/16-885j-aircraft-systems-engineering-fall-2005/2f1f2d91a867075bd2425cd1cc6ee29f_bOAyzURugaw.pdf
+  video_transcript_file: /courses/16-885j-aircraft-systems-engineering-fall-2005/2f1f2d91a867075bd2425cd1cc6ee29f_bOAyzURugaw.pdf
 video_metadata:
   youtube_id: bOAyzURugaw
 ---
