@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: J. R. Thompson Bio ([PDF](resources/thompson_bio "Open i
   a new window."))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 6: Propulsion - Space Shuttle Main Engines'
 uid: 6107de76-176e-f29d-490f-1613f9e35d40
 video_files:

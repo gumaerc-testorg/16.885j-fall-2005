@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: a5e9f4f0-6453-a742-4e85-b3f984b8c663
 resourcetype: Document
 title: tps.pdf
 uid: 52d965a6-b262-c79c-9861-848a1873ef49

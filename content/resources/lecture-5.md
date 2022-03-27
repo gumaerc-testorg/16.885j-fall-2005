@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -13,6 +14,7 @@ related_resources_text: "Lecture Notes ([PDF \u2011 2.7MB](resources/mosr_strctr
   \ in a new window.\"))"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 5: Orbiter Structure + Thermal Protection System'
 uid: 37823b57-0951-4eb8-041d-3e03ff24260f
 video_files:

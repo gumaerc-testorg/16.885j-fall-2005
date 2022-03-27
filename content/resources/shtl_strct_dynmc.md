@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 3ae2825f-e96a-4412-1b63-48f204147d10
 resourcetype: Document
 title: shtl_strct_dynmc.pdf
 uid: dbe7a789-ae50-b74f-94f5-4246b6b01a7b

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -15,6 +16,7 @@ related_resources_text: 'Lecture Notes ([PDF](resources/cohen_orbtr_subs "Open i
   Prof. Cohen Bio ([PDF](resources/cohen_bio "Open in a new window."))'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 3: Orbiter Sub-System Design'
 uid: ff7c34ff-290c-393a-727a-51af7be37994
 video_files:

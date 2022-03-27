@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: Lecture Notes ([PDF](resources/ried_arthrmdynmc "Open in
   new window.")){{< sup "#" >}}
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 12: Aerothermodynamics'
 uid: 0c601b68-000c-fc70-7fb4-eb7665c1c4df
 video_files:

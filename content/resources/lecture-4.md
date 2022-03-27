@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -13,6 +14,7 @@ related_resources_text: "Lecture Notes ([PDF \u2011 4.3MB](resources/logsdn_lec_
   \ \"Open in a new window.\"))"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 4: The Decision to Build the Shuttle'
 uid: bee4fa40-8c03-b6a3-202f-a54780c96210
 video_files:

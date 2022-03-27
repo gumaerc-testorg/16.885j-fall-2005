@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Video Lectures
 parent_type: CourseSection
+parent_uid: d240db3b-e49a-f071-bd2f-1f257ed6d1c9
 resourcetype: Document
 title: mosr_strctrs_tps.pdf
 uid: e01f9fed-8a20-b4c4-019c-1e03d9109d6a

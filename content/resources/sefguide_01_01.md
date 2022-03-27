@@ -14,6 +14,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 3ae2825f-e96a-4412-1b63-48f204147d10
 resourcetype: Document
 title: sefguide_01_01.pdf
 uid: 6128a102-c1a9-b6db-d30f-2fb18c12aa64

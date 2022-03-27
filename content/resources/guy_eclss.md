@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Video Lectures
 parent_type: CourseSection
+parent_uid: d240db3b-e49a-f071-bd2f-1f257ed6d1c9
 resourcetype: Document
 title: guy_eclss.pdf
 uid: 919a708a-2e19-5e99-2156-f22030621285

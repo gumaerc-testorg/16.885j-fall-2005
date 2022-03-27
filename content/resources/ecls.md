@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: a5e9f4f0-6453-a742-4e85-b3f984b8c663
 resourcetype: Document
 title: ecls.pdf
 uid: 051e25f6-eb59-2a3c-3fec-d448fcf04bf8

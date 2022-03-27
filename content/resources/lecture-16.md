@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: Phil Hattis Bio ([PDF](resources/hattis_bio "Open in a n
   window."))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 16: Guidance, Navigation and Control'
 uid: c17c7d7f-ff13-3037-3060-6d59bbbd111e
 video_files:

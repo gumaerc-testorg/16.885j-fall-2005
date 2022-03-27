@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: Prof. Hoffman Bio ([PDF](resources/hoffman_bio "Open in 
   new window."))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 11: Use of Subsystems as a Function of Flight Phase'
 uid: 198d3747-300c-01ba-dc9d-83f99010e22e
 video_files:

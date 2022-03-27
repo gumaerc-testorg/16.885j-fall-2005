@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -13,6 +14,7 @@ related_resources_text: "Lecture Notes ([PDF \u2011 5.5MB](resources/louviere_rm
   Open in a new window.\"))"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 8: Landing and Mechanical Systems'
 uid: 1d1b7d2f-0710-8c9b-e08e-d89a4cf7ca49
 video_files:

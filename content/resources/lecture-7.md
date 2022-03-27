@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: Bass Redd Bio ([PDF](resources/redd_bio "Open in a new window."))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 7: Aerodynamics - (From Sub - to Hypersonic and Back)'
 uid: b8a41a91-8039-bad0-1634-e8876ec4961c
 video_files:

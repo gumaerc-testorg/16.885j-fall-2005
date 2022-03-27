@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -15,6 +16,7 @@ related_resources_text: 'Lecture Notes ([PDF](resources/po_om_rc_ap_hy "Open in 
   Henry Pohl Bio ([PDF](resources/pohl_bio "Open in a new window."))'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 9: OMS, RCS, Fuel Cells, Auxiliary Power Unit and Hydraulic Systems'
 uid: d3145026-4770-78f8-4adc-927e70a4ddd2
 video_files:

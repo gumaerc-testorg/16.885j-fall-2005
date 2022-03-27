@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -13,6 +14,7 @@ related_resources_text: "Lecture Notes ([PDF \u2011 1.3MB](resources/sieck_launc
   \ in a new window.\"))"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 14: Ground Operations - Launching the Shuttle'
 uid: 77d97031-2efe-5c0c-0f20-ad266e3a9b83
 video_files:

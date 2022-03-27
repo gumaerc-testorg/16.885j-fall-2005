@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: "Lecture Notes ([PDF \u2011 2.4MB](resources/lav_chan_sy
   \ \"Open in a new window.\"))"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 21: Systems Engineering for Space Shuttle Payloads'
 uid: 6dc61254-9417-971d-4295-e2df6f27c044
 video_files:

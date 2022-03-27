@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -15,6 +16,7 @@ related_resources_text: 'Lecture Notes ([PDF](resources/cohen_shtl_hist "Open in
   Prof. Cohen Bio ([PDF](resources/cohen_bio "Open in a new window."))'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 2: Space Shuttle History'
 uid: 14307263-30a3-7430-e684-4fdde10521ab
 video_files:

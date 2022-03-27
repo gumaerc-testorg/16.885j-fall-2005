@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: "\_None for this lecture."
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 10: The DoD and the Space Shuttle'
 uid: 2e91651c-ed8f-d0b8-d343-ecb3bc31ce11
 video_files:

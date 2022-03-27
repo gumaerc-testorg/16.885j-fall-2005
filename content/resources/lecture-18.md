@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: None for this lecture
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 18: Mission Control 2'
 uid: d301bc42-bf54-0e26-6abf-f76cf6381cfa
 video_files:

@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Video Lectures
 parent_type: CourseSection
+parent_uid: d240db3b-e49a-f071-bd2f-1f257ed6d1c9
 resourcetype: Document
 title: kraft_misn_ctrl.pdf
 uid: 261853cb-8ad7-e5ee-ea47-da775f39b72d

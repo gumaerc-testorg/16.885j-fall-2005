@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: 96328a21-c2d8-a614-cd21-47cefc1ed75c
 resourcetype: Image
 title: apollosuit.jpg
 uid: 8e0f2ce0-0135-720b-eb88-79c1990f75d1

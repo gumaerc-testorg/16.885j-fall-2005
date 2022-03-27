@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -13,6 +14,7 @@ related_resources_text: "Lecture Notes ([PDF \u2011 1.3MB](resources/guy_eclss \
   \ window.\"))"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 13: Environmental Control Systems'
 uid: 7e10e6d1-77b6-2fad-5a24-7e45421fc4cb
 video_files:

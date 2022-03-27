@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: Prof. Cohen Bio ([PDF](resources/cohen_bio "Open in a ne
   window."))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 19: Design Process as it Relates to the Shuttle'
 uid: db4f39fe-6090-d786-2af1-b1070168dabb
 video_files:

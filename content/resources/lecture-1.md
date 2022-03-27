@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -14,6 +15,7 @@ related_resources_text: "Lecture Notes ([PDF \u2011 2MB](resources/myers_shtl_or
   \ in a new window.\"))"
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 1: The Origins of the Space Shuttle'
 uid: 1e9ae3c8-d97b-987b-22a1-2b9fea8b3aa6
 video_files:

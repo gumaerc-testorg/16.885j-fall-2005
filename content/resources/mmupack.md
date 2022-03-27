@@ -13,6 +13,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: 96328a21-c2d8-a614-cd21-47cefc1ed75c
 resourcetype: Image
 title: mmupack.jpg
 uid: e19ec52d-3aa5-10b6-b135-691940bdbf9f
