@@ -5,13 +5,13 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: "Lecture Notes ([PDF \u2011 2.7MB](resources/mosr_strctrs_tps\
-  \ \"Open in a new window.\"))\n\nTom Moser Bio ([PDF](resources/moser_bio \"Open\
-  \ in a new window.\"))"
+related_resources_text: "Lecture Notes ([PDF \u2011 2.7MB](/courses/16-885j-aircraft-systems-engineering-fall-2005/resources/mosr_strctrs_tps))\n\
+  \nTom Moser Bio ([PDF](/courses/16-885j-aircraft-systems-engineering-fall-2005/resources/moser_bio))"
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -31,3 +31,6 @@ video_metadata:
 **Instructor:** Guest Lecturer - Tom Moser
 
 Subtitles are provided through the generous support of Heather Wood.
+
+
+

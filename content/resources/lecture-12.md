@@ -5,12 +5,13 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: Lecture Notes ([PDF](resources/ried_arthrmdynmc "Open in a
-  new window.")){{< sup "#" >}}
+related_resources_text: Lecture Notes ([PDF](/courses/16-885j-aircraft-systems-engineering-fall-2005/resources/ried_arthrmdynmc)){{<
+  sup "#" >}}
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -30,3 +31,6 @@ video_metadata:
 **Instructor:** Guest Lecturer - Bob Ried
 
 Subtitles are provided through the generous support of Heather Wood.
+
+
+

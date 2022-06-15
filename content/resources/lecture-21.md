@@ -5,12 +5,12 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: "Lecture Notes ([PDF \u2011 2.4MB](resources/lav_chan_sys_eng\
-  \ \"Open in a new window.\"))"
+related_resources_text: "Lecture Notes ([PDF \u2011 2.4MB](/courses/16-885j-aircraft-systems-engineering-fall-2005/resources/lav_chan_sys_eng))"
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -30,3 +30,6 @@ video_metadata:
 **Instructor:** Guest Lecturer ‑ Anthony Lavoie
 
 Subtitles are provided through the generous support of Heather Wood.
+
+
+

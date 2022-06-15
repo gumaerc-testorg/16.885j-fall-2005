@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'The related resources section gives the information on teh videos giving
+  details on the topics: launch from the shuttle cockpit, the payload doors opening,
+  a night launch, and the shuttle landing.'
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources

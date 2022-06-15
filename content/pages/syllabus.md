@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The syllabus section gives information of the course description and
+  the guest lecturers of the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

@@ -5,13 +5,13 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: "Lecture Notes ([PDF \u2011 5.5MB](resources/louviere_rms\
-  \ \"Open in a new window.\"))\n\nAl Louviere Bio ([PDF](resources/louviere_bio \"\
-  Open in a new window.\"))"
+related_resources_text: "Lecture Notes ([PDF \u2011 5.5MB](/courses/16-885j-aircraft-systems-engineering-fall-2005/resources/louviere_rms))\n\
+  \nAl Louviere Bio ([PDF](/courses/16-885j-aircraft-systems-engineering-fall-2005/resources/louviere_bio))"
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -31,3 +31,6 @@ video_metadata:
 **Instructor:** Guest Lecturer - Al Louviere
 
 Subtitles are provided through the generous support of Heather Wood.
+
+
+

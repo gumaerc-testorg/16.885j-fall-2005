@@ -5,14 +5,14 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: "Lecture Notes ([PDF \u2011 2MB](resources/myers_shtl_orign\
-  \ \"Open in a new window.\"))\n\nProf. Hoffman Bio ([PDF](resources/hoffman_bio\
-  \ \"Open in a new window.\"))\n\nProf. Cohen Bio ([PDF](resources/cohen_bio \"Open\
-  \ in a new window.\"))"
+related_resources_text: "Lecture Notes ([PDF \u2011 2MB](/courses/16-885j-aircraft-systems-engineering-fall-2005/resources/myers_shtl_orign))\n\
+  \nProf. Hoffman Bio ([PDF](/courses/16-885j-aircraft-systems-engineering-fall-2005/resources/hoffman_bio))\n\
+  \nProf. Cohen Bio ([PDF](/courses/16-885j-aircraft-systems-engineering-fall-2005/resources/cohen_bio))"
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -32,3 +32,6 @@ video_metadata:
 **Instructor:** Prof. Hoffman, Prof. Cohen, Guest Lecturer - Dale Myers
 
 Subtitles are provided through the generous support of Heather Wood.
+
+
+

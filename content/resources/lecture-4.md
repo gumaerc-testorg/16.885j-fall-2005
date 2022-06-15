@@ -5,13 +5,13 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: "Lecture Notes ([PDF \u2011 4.3MB](resources/logsdn_lec_notes\
-  \ \"Open in a new window.\")){{< sup \"#\" >}}\n\nProf. John Logsdon Bio ([PDF](resources/logsdon_bio\
-  \ \"Open in a new window.\"))"
+related_resources_text: "Lecture Notes ([PDF \u2011 4.3MB](/courses/16-885j-aircraft-systems-engineering-fall-2005/resources/logsdn_lec_notes)){{<\
+  \ sup \"#\" >}}\n\nProf. John Logsdon Bio ([PDF](/courses/16-885j-aircraft-systems-engineering-fall-2005/resources/logsdon_bio))"
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -31,3 +31,6 @@ video_metadata:
 **Instructor:** Guest Lecturer - Prof. John Logsdon
 
 Subtitles are provided through the generous support of Heather Wood.
+
+
+

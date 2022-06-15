@@ -5,12 +5,12 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: Col. Gordon Fullerton Bio ([PDF](resources/fullerton_bio "Open
-  in a new window."))
+related_resources_text: Col. Gordon Fullerton Bio ([PDF](/courses/16-885j-aircraft-systems-engineering-fall-2005/resources/fullerton_bio))
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -30,3 +30,6 @@ video_metadata:
 **Instructor:** Guest Lecturer ‑ Col. Gordon Fullerton
 
 Subtitles are provided through the generous support of Heather Wood.
+
+
+

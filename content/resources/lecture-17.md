@@ -5,15 +5,15 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: 'Lecture Notes ([PDF](resources/kraft_misn_ctrl "Open in a
-  new window."))
+related_resources_text: 'Lecture Notes ([PDF](/courses/16-885j-aircraft-systems-engineering-fall-2005/resources/kraft_misn_ctrl))
 
 
-  Chris Kraft Bio ([PDF](resources/kraft_bio "Open in a new window."))'
+  Chris Kraft Bio ([PDF](/courses/16-885j-aircraft-systems-engineering-fall-2005/resources/kraft_bio))'
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -33,3 +33,6 @@ video_metadata:
 **Instructor:** Guest Lecturer ‑ Chris Kraft
 
 Subtitles are provided through the generous support of Heather Wood.
+
+
+

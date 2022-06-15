@@ -5,13 +5,13 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: "Lecture Notes ([PDF \u2011 1.3MB](resources/guy_eclss \"\
-  Open in a new window.\"))\n\nWalt Guy Bio ([PDF](resources/guy_bio \"Open in a new\
-  \ window.\"))"
+related_resources_text: "Lecture Notes ([PDF \u2011 1.3MB](/courses/16-885j-aircraft-systems-engineering-fall-2005/resources/guy_eclss))\n\
+  \nWalt Guy Bio ([PDF](/courses/16-885j-aircraft-systems-engineering-fall-2005/resources/guy_bio))"
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
@@ -31,3 +31,6 @@ video_metadata:
 **Instructor:** Guest Lecturer - Walt Guy
 
 Subtitles are provided through the generous support of Heather Wood.
+
+
+

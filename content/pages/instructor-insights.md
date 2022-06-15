@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section Professor Jeffrey Hoffman describes his experiences in
+  space and how that experience has influenced his teaching of systems engineering.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection

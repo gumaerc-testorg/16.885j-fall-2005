@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The projects section contains information on the presentations and student
+  groups of the course.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -24,7 +26,7 @@ STUDENT GROUPS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Orbiter Cockpit ([PDF]({{< baseurl >}}/resources/orbiter_cockpit))
+Orbiter Cockpit ({{% resource_link 2ad75817-3d6d-006b-ff8b-3901bea63c03 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Liang Sim, Kevin R. Duda, Thaddeus R. F. Fulford-Jones, Anuja Mahashabde
@@ -33,7 +35,7 @@ Liang Sim, Kevin R. Duda, Thaddeus R. F. Fulford-Jones, Anuja Mahashabde
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Thermal Protection System ([PDF]({{< baseurl >}}/resources/tps))
+Thermal Protection System ({{% resource_link 52d965a6-b262-c79c-9861-848a1873ef49 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Daniel Kwon
@@ -42,7 +44,7 @@ Daniel Kwon
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Long Duration Orbiter Environmental Control and Life Support System ([PDF ‑ 1.5 MB]({{< baseurl >}}/resources/ecls))
+Long Duration Orbiter Environmental Control and Life Support System ({{% resource_link 051e25f6-eb59-2a3c-3fec-d448fcf04bf8 "PDF ‑ 1.5 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Alejandra Menchaca, Andrew Rader, Scott Sheehan
@@ -51,7 +53,7 @@ Alejandra Menchaca, Andrew Rader, Scott Sheehan
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Shuttle Propulsion ([PDF ‑ 1.2 MB]({{< baseurl >}}/resources/psp))
+Shuttle Propulsion ({{% resource_link 9327df2e-54a4-2938-df3f-e24c75235eac "PDF ‑ 1.2 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Junghyun Ahn, Brian Bairstow, Steve Bresnahan, Dan Judnick
@@ -60,7 +62,7 @@ Junghyun Ahn, Brian Bairstow, Steve Bresnahan, Dan Judnick
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Guidance Navigation and Control Subsystem ([PDF]({{< baseurl >}}/resources/gnc))
+Guidance Navigation and Control Subsystem ({{% resource_link 53ae0e44-ecdc-30b8-2088-bc09ddc8bc47 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Jon Beaton, Ben Stewart, Kieran Culligan, Drew Barker
