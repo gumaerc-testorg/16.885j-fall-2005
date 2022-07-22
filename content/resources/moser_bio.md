@@ -5,6 +5,7 @@ file: /courses/16-885j-aircraft-systems-engineering-fall-2005/d3bf0041140195b8fb
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Video Lectures
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: moser_bio.pdf
 uid: d3bf0041-1401-95b8-fbed-d3895aaad4bc
 ---
 This resource contains information on Thomas L. Moser.
-

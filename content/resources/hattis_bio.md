@@ -5,6 +5,7 @@ file: /courses/16-885j-aircraft-systems-engineering-fall-2005/f7676958550987a6e2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Video Lectures
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hattis_bio.pdf
 uid: f7676958-5509-87a6-e285-a2aff8e479fd
 ---
 This resurce information on Dr. Philip Hattis.
-

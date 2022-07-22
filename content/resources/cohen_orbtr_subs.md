@@ -6,6 +6,7 @@ file: /courses/16-885j-aircraft-systems-engineering-fall-2005/0754d36cd07496832e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Video Lectures
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: cohen_orbtr_subs.pdf
 uid: 0754d36c-d074-9683-2e83-d816abdeb8db
 ---
 This resource contains information on hydraulic systems, space shuttle system and thermal protection system.
-

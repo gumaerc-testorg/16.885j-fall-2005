@@ -5,6 +5,7 @@ file: /courses/16-885j-aircraft-systems-engineering-fall-2005/46122c051da19370fb
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Video Lectures
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: kraft_bio.pdf
 uid: 46122c05-1da1-9370-fbb0-22a0786bf852
 ---
 This resource contains information on Christopher C. Kraft Jr.
-

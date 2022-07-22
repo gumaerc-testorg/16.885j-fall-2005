@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of NASA.'
   image-alt: Apollo space suit schematic.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Related Resources
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: apollosuit.jpg
 uid: 8e0f2ce0-0135-720b-eb88-79c1990f75d1
 ---
 An early generation version of the space suit is shown here.
-

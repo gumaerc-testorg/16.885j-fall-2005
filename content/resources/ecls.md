@@ -7,6 +7,7 @@ file: /courses/16-885j-aircraft-systems-engineering-fall-2005/051e25f6eb592a3c3f
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: ecls.pdf
 uid: 051e25f6-eb59-2a3c-3fec-d448fcf04bf8
 ---
 This resource gives information on long duration missions, NASA's solution, power extension package, PEP, RFCs, reclamation, electrochemical depolarised concentrator and Sabatier reactor.
-

@@ -7,6 +7,7 @@ file: /courses/16-885j-aircraft-systems-engineering-fall-2005/e62bd4637dc3cb9a9a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Video Lectures
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: sieck_launch_ops.pdf
 uid: e62bd463-7dc3-cb9a-9a5e-0c8fe3c67c52
 ---
 This resource contains information on engineering, operations, human factors, standard work flow, orbiter processing facility, vehicle assembly building operations, lauch pad and launch processing system.
-

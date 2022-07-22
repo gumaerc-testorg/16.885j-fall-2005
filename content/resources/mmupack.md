@@ -10,6 +10,7 @@ image_metadata:
   credit: 'Credit: Image courtesy of NASA.'
   image-alt: Manned Maneuvering Unit (MMU).
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Related Resources
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: mmupack.jpg
 uid: e19ec52d-3aa5-10b6-b135-691940bdbf9f
 ---
 An astronaut uses the Manned Maneuvering Unit (MMU), a nitrogen-propelled backpack.
-

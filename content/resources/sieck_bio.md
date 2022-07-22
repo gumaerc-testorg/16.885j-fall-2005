@@ -5,6 +5,7 @@ file: /courses/16-885j-aircraft-systems-engineering-fall-2005/9f7a3d9d33459645f3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Video Lectures
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: sieck_bio.pdf
 uid: 9f7a3d9d-3345-9645-f328-04aee6c4519b
 ---
 This resource contains information on Bob Sieck.
-

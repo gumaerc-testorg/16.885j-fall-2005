@@ -5,6 +5,7 @@ file: /courses/16-885j-aircraft-systems-engineering-fall-2005/ec0b172ad4db513a97
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Video Lectures
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: logsdon_bio.pdf
 uid: ec0b172a-d4db-513a-973d-2732d3648064
 ---
 This resource contains information on John M. Logsdon.
-

@@ -5,6 +5,7 @@ file: /courses/16-885j-aircraft-systems-engineering-fall-2005/0245ef4ceb44a09550
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Video Lectures
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: widnall_bio.pdf
 uid: 0245ef4c-eb44-a095-50ab-17e73541a3e9
 ---
 This resource contains information on Sheila E. Widnall.
-

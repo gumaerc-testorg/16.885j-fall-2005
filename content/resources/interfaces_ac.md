@@ -6,6 +6,7 @@ file: /courses/16-885j-aircraft-systems-engineering-fall-2005/25fd783dbdc753a8bc
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: interfaces_ac.pdf
 uid: 25fd783d-bdc7-53a8-bc77-239904f389fb
 ---
 This resource contains information on the types of physical interfaces - mechanical and electrical.
-
