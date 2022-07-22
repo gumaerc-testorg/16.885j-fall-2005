@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: 'The related resources section gives the information on teh videos giving
+  details on the topics: launch from the shuttle cockpit, the payload doors opening,
+  a night launch, and the shuttle landing.'
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 96328a21-c2d8-a614-cd21-47cefc1ed75c
 ---
@@ -15,7 +20,7 @@ Space Suit Image Gallery
 ------------------------
 
 The following images show some sample pages from the STS-75 EVA guide worn on the arm of the astronaut, as well as material layer samples from a space suit.
-{{< image-gallery id="96328a21-c2d8-a614-cd21-47cefc1ed75c_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/16-885j-aircraft-systems-engineering-fall-2005/" >}}
+{{< image-gallery id="96328a21-c2d8-a614-cd21-47cefc1ed75c_nanogallery2" baseUrl="/courses/16-885j-aircraft-systems-engineering-fall-2005/" >}}
 {{< image-gallery-item href="8e0f2ce00135720beb8879c1990f75d1_apollosuit.jpg" data-ngdesc="An early generation version of the space suit is shown here." text="An early generation version of the space suit is shown here." >}}
 {{< image-gallery-item href="e19ec52d3aa510b6b135691940bdbf9f_mmupack.jpg" data-ngdesc="An astronaut uses the Manned Maneuvering Unit (MMU), a nitrogen-propelled backpack." text="An astronaut uses the Manned Maneuvering Unit (MMU), a nitrogen-propelled backpack." >}}
 {{< image-gallery-item href="5541ccc3d9df3b99b5609ef35f1ec8f3_P1010012.jpg" data-ngdesc="Extra-vehicular activity (EVA) guide and armband attachment for shuttle mission STS-75" text="Extra-vehicular activity (EVA) guide and armband attachment for shuttle mission STS-75" >}}
