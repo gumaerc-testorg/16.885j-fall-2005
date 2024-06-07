@@ -5,6 +5,7 @@ description: This resource contains information on systems engineering process, 
   development and ops costs, payload mass and size (delivery and return), operational
   orbits, fully or partially reusable flight systems, turn-around time and entry cross-range.
 file: /courses/16-885j-aircraft-systems-engineering-fall-2005/e01f9fed8a20b4c4019c1e03d9109d6a_mosr_strctrs_tps.pdf
+file_size: 2792772
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
