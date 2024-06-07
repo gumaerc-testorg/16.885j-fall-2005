@@ -2,6 +2,7 @@
 content_type: resource
 description: This resuorce contains information on Henry O. Pohl.
 file: /courses/16-885j-aircraft-systems-engineering-fall-2005/45a9990e82eefe535f28d576024569a7_pohl_bio.pdf
+file_size: 57406
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos

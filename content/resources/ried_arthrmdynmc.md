@@ -4,6 +4,7 @@ description: This resource contains information on design and flight test enviro
   design heating methodology, orbiter inferred and predicted heat flux, leeward surface
   flight data vs. Reynolds number and matrix of understanding.
 file: /courses/16-885j-aircraft-systems-engineering-fall-2005/baeb4a22a3d29efb01a6e76cca38d742_ried_arthrmdynmc.pdf
+file_size: 197830
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos

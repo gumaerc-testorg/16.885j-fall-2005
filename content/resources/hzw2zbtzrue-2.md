@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/16-885j-aircraft-systems-engineering-fall-2005/3499731a13105a92b8af1efb4226edd5_hzW2ZBtzrUE.vtt
+file_size: 78814
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

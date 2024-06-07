@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information on guidance, navigation, control,
   redesign constraints, GPS and trade study.
 file: /courses/16-885j-aircraft-systems-engineering-fall-2005/53ae0e44ecdc30b82088bc09ddc8bc47_gnc.pdf
+file_size: 593070
 file_type: application/pdf
 learning_resource_types:
 - Projects
