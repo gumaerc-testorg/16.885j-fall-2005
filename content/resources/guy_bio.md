@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information on Walter W. Guy.
 file: /courses/16-885j-aircraft-systems-engineering-fall-2005/be2c3a8a6bb25b5d326142c0c76c0adf_guy_bio.pdf
+file_size: 61601
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
