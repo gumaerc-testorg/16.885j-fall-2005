@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resurce information on Dr. Philip Hattis.
-file: /courses/16-885j-aircraft-systems-engineering-fall-2005/f7676958550987a6e285a2aff8e479fd_hattis_bio.pdf
+file: /ol-ocw-studio-app/courses/16-885j-aircraft-systems-engineering-fall-2005/f7676958550987a6e285a2aff8e479fd_hattis_bio.pdf
 file_size: 35091
 file_type: application/pdf
 learning_resource_types:

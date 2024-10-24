@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on Christopher C. Kraft Jr.
-file: /courses/16-885j-aircraft-systems-engineering-fall-2005/46122c051da19370fbb022a0786bf852_kraft_bio.pdf
+file: /ol-ocw-studio-app/courses/16-885j-aircraft-systems-engineering-fall-2005/46122c051da19370fbb022a0786bf852_kraft_bio.pdf
 file_size: 143171
 file_type: application/pdf
 learning_resource_types:

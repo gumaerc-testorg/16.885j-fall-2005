@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on Aaron Cohen.
-file: /courses/16-885j-aircraft-systems-engineering-fall-2005/c8a8e12353bcd0d995d7979cc2a1636f_cohen_bio.pdf
+file: /ol-ocw-studio-app/courses/16-885j-aircraft-systems-engineering-fall-2005/c8a8e12353bcd0d995d7979cc2a1636f_cohen_bio.pdf
 file_size: 227900
 file_type: application/pdf
 learning_resource_types:
