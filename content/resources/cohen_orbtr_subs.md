@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on hydraulic systems, space shuttle
   system and thermal protection system.
-file: /courses/16-885j-aircraft-systems-engineering-fall-2005/0754d36cd07496832e83d816abdeb8db_cohen_orbtr_subs.pdf
+file: /ol-ocw-studio-app/courses/16-885j-aircraft-systems-engineering-fall-2005/0754d36cd07496832e83d816abdeb8db_cohen_orbtr_subs.pdf
 file_size: 843475
 file_type: application/pdf
 learning_resource_types:
