@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information on engineering, operations, human
   factors, standard work flow, orbiter processing facility, vehicle assembly building
   operations, lauch pad and launch processing system.
-file: /ol-ocw-studio-app/courses/16-885j-aircraft-systems-engineering-fall-2005/e62bd4637dc3cb9a9a5e0c8fe3c67c52_sieck_launch_ops.pdf
+file: /courses/16-885j-aircraft-systems-engineering-fall-2005/e62bd4637dc3cb9a9a5e0c8fe3c67c52_sieck_launch_ops.pdf
 file_size: 1400106
 file_type: application/pdf
 learning_resource_types:

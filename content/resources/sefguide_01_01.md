@@ -7,7 +7,7 @@ description: This resource contains information on systems engineering process o
   risk management, systems engineering planning, product improvement strategies, organizing
   and integrating system development, contractual considerations and management considerations
   and summary.
-file: /ol-ocw-studio-app/courses/16-885j-aircraft-systems-engineering-fall-2005/6128a102c1a9b6dbd30f2fb18c12aa64_sefguide_01_01.pdf
+file: /courses/16-885j-aircraft-systems-engineering-fall-2005/6128a102c1a9b6dbd30f2fb18c12aa64_sefguide_01_01.pdf
 file_size: 1292450
 file_type: application/pdf
 learning_resource_types:

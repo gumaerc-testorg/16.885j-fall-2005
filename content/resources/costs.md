@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on the fees of the programs - orbiter,
   booster, SSME and program support.
-file: /ol-ocw-studio-app/courses/16-885j-aircraft-systems-engineering-fall-2005/19e0f3ad5a29d58e0d209e085e7422d6_costs.pdf
+file: /courses/16-885j-aircraft-systems-engineering-fall-2005/19e0f3ad5a29d58e0d209e085e7422d6_costs.pdf
 file_size: 145174
 file_type: application/pdf
 learning_resource_types:
