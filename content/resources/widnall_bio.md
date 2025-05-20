@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on Sheila E. Widnall.
-file: /ol-ocw-studio-app/courses/16-885j-aircraft-systems-engineering-fall-2005/0245ef4ceb44a09550ab17e73541a3e9_widnall_bio.pdf
+file: /courses/16-885j-aircraft-systems-engineering-fall-2005/0245ef4ceb44a09550ab17e73541a3e9_widnall_bio.pdf
 file_size: 36149
 file_type: application/pdf
 learning_resource_types:

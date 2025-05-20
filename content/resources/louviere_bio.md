@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on Allen J. Louviere.
-file: /ol-ocw-studio-app/courses/16-885j-aircraft-systems-engineering-fall-2005/74d763653ebb4e098ceab3e2db06aa4d_louviere_bio.pdf
+file: /courses/16-885j-aircraft-systems-engineering-fall-2005/74d763653ebb4e098ceab3e2db06aa4d_louviere_bio.pdf
 file_size: 57432
 file_type: application/pdf
 learning_resource_types:
