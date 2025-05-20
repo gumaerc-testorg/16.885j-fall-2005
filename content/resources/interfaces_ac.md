@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on the types of physical interfaces
   - mechanical and electrical.
-file: /ol-ocw-studio-app/courses/16-885j-aircraft-systems-engineering-fall-2005/25fd783dbdc753a8bc77239904f389fb_interfaces_ac.pdf
+file: /courses/16-885j-aircraft-systems-engineering-fall-2005/25fd783dbdc753a8bc77239904f389fb_interfaces_ac.pdf
 file_size: 57330
 file_type: application/pdf
 learning_resource_types:

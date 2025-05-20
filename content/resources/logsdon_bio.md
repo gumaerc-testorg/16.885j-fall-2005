@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on John M. Logsdon.
-file: /ol-ocw-studio-app/courses/16-885j-aircraft-systems-engineering-fall-2005/ec0b172ad4db513a973d2732d3648064_logsdon_bio.pdf
+file: /courses/16-885j-aircraft-systems-engineering-fall-2005/ec0b172ad4db513a973d2732d3648064_logsdon_bio.pdf
 file_size: 62253
 file_type: application/pdf
 learning_resource_types:

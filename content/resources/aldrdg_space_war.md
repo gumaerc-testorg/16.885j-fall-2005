@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on bureaucratic space wars - confidence,
   competition, truce and the treaty, the solution and epilogue.
-file: /ol-ocw-studio-app/courses/16-885j-aircraft-systems-engineering-fall-2005/f7ae23f1e7594688ad4cdfb8c1e6200b_aldrdg_space_war.pdf
+file: /courses/16-885j-aircraft-systems-engineering-fall-2005/f7ae23f1e7594688ad4cdfb8c1e6200b_aldrdg_space_war.pdf
 file_size: 83515
 file_type: application/pdf
 learning_resource_types:

@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information on exploratory development, master-slave
   concept, payload simulations, orbitor payload, hand controller, orbitor flight deck
   work station and backup.
-file: /ol-ocw-studio-app/courses/16-885j-aircraft-systems-engineering-fall-2005/33b071f5d22a815ccf14763eb1d22aa5_louviere_rms.pdf
+file: /courses/16-885j-aircraft-systems-engineering-fall-2005/33b071f5d22a815ccf14763eb1d22aa5_louviere_rms.pdf
 file_size: 5731101
 file_type: application/pdf
 learning_resource_types:
