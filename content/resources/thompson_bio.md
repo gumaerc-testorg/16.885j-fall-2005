@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on James R. Thompson.
-file: /courses/16-885j-aircraft-systems-engineering-fall-2005/7450b4992dba2e8e866ef96982495460_thompson_bio.pdf
+file: /ol-ocw-studio-app/courses/16-885j-aircraft-systems-engineering-fall-2005/7450b4992dba2e8e866ef96982495460_thompson_bio.pdf
 file_size: 98516
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on Bass Redd.
-file: /courses/16-885j-aircraft-systems-engineering-fall-2005/2fcda09235b570b8d2787df5f1884c0f_redd_bio.pdf
+file: /ol-ocw-studio-app/courses/16-885j-aircraft-systems-engineering-fall-2005/2fcda09235b570b8d2787df5f1884c0f_redd_bio.pdf
 file_size: 39150
 file_type: application/pdf
 learning_resource_types:
