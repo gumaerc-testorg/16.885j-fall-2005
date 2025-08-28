@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/16-885j-aircraft-systems-engineering-fall-2005/297989f69e73257182af1baedab6be79_FB0pyYTs2mw.srt
+file: /ol-ocw-studio-app/courses/16-885j-aircraft-systems-engineering-fall-2005/297989f69e73257182af1baedab6be79_FB0pyYTs2mw.srt
 file_size: 160283
 file_type: application/x-subrip
 learning_resource_types: []
